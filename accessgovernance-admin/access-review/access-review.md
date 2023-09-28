@@ -22,7 +22,7 @@ In this lab, you will:
 * Approve Access Review requests as Access Governance Campaign Administrator
 
 
-## Task 1: Login Oracle Access Governance as Employee User to create Access Requests
+## Task 1: Create Access Requests
 
 
 1. Log in to Oracle Access Governance as an employee user - Mark Hernandez with the username and password mentioned below. 
@@ -128,7 +128,7 @@ In this lab, you will:
 
   22. Click on **Submit Request**
 
-## Task 2: Login Oracle Access Governance as Access Governance Administrator to approve Access Requests
+## Task 2: Approve Access Requests
 
 
 1. Log in to Oracle Access Governance as an employee user - Pamela Green with the username and password mentioned below. 
@@ -169,7 +169,7 @@ In this lab, you will:
 4. Once the data load is complete, the status will be shown as Success. 
 
 
-## Task 4: Login Oracle Access Governance as Access Governance Administrator to Create Campaign 
+## Task 4: Create Campaign 
 
 1. Log in to Oracle Access Governance as an employee user - Pamela Green with the username and password mentioned below.
 
