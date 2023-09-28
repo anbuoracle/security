@@ -1,5 +1,5 @@
 {
-    "workshoptitle": "  Prescriptive and Insight-driven Access Reviews with Oracle Access Governance",
+    "workshoptitle": "Oracle Access Governance - OIG",
     "help": "livelabs-help-oci_us@oracle.com",
     "tutorials": [
         {
@@ -33,7 +33,7 @@
             "filename": "https://oracle-livelabs.github.io/common/labs/setup-compute-generic/setup-compute-novnc-ssh.md"
         },
         {
-            "title": "Lab 5: Verify environment and initialize (OIG)",
+            "title": "Lab 5: Verify environment and initialize",
             "description": "Labs that follow the introduction are numbered, starting with Lab ",
             "filename": "../../environment-initialize/environment-initialize.md"
         },
@@ -43,12 +43,12 @@
             "filename": "../../instance-setup/ag-instance-setup.md"
         },
         {
-            "title": "Lab 7: Install and configure Oracle Access Governance agent (OIG)",
+            "title": "Lab 7: Install and configure Oracle Access Governance agent",
             "description": "Labs that follow the introduction are numbered, starting with Lab ",
             "filename": "../../agent-install/agent-install.md"
         },
         {
-            "title": "Lab 8: Perform AG data load (OIG)",
+            "title": "Lab 8: Perform AG data load",
             "description": "Labs that follow the introduction are numbered, starting with Lab ",
             "filename": "../../data-load/data-load.md"
         },
@@ -58,24 +58,24 @@
             "filename": "../../mark-identities/mark-identities.md"
         },
         {
-            "title": "Lab 10: Create access review campaign (OIG)",
+            "title": "Lab 10: Create access review campaign",
             "description": "Labs that follow the introduction are numbered, starting with Lab 1",
             "filename": "../../create-campaign/create-campaign.md"
         },
         {
-            "title": "Lab 11: Review who has access to what (OIG)",
+            "title": "Lab 11: Review who has access to what",
             "filename": "../../review-who-has-access/review-who-has-access.md"
         },
         {
-            "title": "Lab 12: Perform access review (OIG)",
+            "title": "Lab 12: Perform access review",
             "filename": "../../perform-access-review/perform-access-review.md"
         },
         {
-            "title": "Lab 13: Manage access review campaigns (OIG)",
+            "title": "Lab 13: Manage access review campaigns",
             "filename": "../../manage-campaign/manage-campaign.md"
         },
         {
-            "title": "Lab 14: Manage event based access review campaigns (OIG)",
+            "title": "Lab 14: Manage event based access review campaigns",
             "filename": "../../event-based-review/event-based-review.md"
         },
         {
